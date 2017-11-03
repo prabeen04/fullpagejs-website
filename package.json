@@ -1,0 +1,24 @@
+{
+  "name": "fullpage",
+  "version": "1.0.0",
+  "description": "a fullpage website",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "html",
+    "javascritp"
+  ],
+  "author": "prabeen",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "fullpage.js": "^2.9.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
